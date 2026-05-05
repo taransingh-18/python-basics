@@ -1,26 +1,25 @@
 # Python Basics
 
-<<<<<<< HEAD
-This repository contains my Python learning journey.
-
-## Day 1
-- Learning variables, input/output
-- Practicing basic programs
-=======
 This repository contains my journey of learning Python from scratch.
 
-## What I'm Learning
+## Topics Covered
+
+- Modules (inbuilt & external)
+- Comments
+- Pip (package installer)
 - Variables
-- Input/Output
 - Data Types
+- Operators
+- Type Function (`type()`)
+- Typecasting
 
-## Progress
+## Practice
 
-### Day 1
-- Learned variables and input/output
-- Practiced basic programs
+- Twinkle poem program
+- Directory listing using os module
+- External module (text-to-speech)
 
 ## Goal
+
 - Build strong programming fundamentals
-- Become a full stack developer
->>>>>>> 8542d6b24b31721409f7c8dd591876224e43ee3f
+- Become a backend developer
