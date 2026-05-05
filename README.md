@@ -4,20 +4,29 @@ This repository contains my journey of learning Python from scratch.
 
 ## Topics Covered
 
-- Modules (inbuilt & external)
+- Modules
 - Comments
-- Pip (package installer)
+- Pip
 - Variables
 - Data Types
 - Operators
 - Type Function (`type()`)
 - Typecasting
+- Input/Output
 
 ## Practice
 
-- Twinkle poem program
+
+- Twinkle poem
 - Directory listing using os module
 - External module (text-to-speech)
+
+- Add two numbers
+- Remainder
+- Input type checking
+- Comparison
+- Average
+- Square
 
 ## Goal
 
